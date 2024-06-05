@@ -1,4 +1,4 @@
-### LCV Motors - Monitoramento de Temperatura e pH
+### LCV - Monitoramento de Temperatura e pH
 
 #### Descrição
 
