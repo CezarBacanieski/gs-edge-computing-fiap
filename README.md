@@ -59,6 +59,23 @@ Esta função exibe uma tela de inicialização no LCD ao ligar o sistema. As a�
 - **Leitura Contínua:** Após a inicialização, o sistema entra em um loop onde lê continuamente os valores dos sensores de temperatura e pH.
 - **Exibição dos Valores:** Os valores lidos são exibidos no LCD, atualizando a cada segundo. A temperatura é exibida em graus Celsius e o pH em uma escala de 0 a 14.
 
+#### Instruções de Uso
+
+1. **Conexões Físicas:**
+   - Conecte os sensores de temperatura e pH aos pinos correspondentes no Arduino (consulte o código-fonte para os pinos exatos).
+   - Conecte o display LCD ao Arduino conforme descrito no código.
+
+2. **Dependências:**
+   - Este projeto requer a biblioteca LiquidCrystal.h para controlar o display LCD. Certifique-se de tê-la instalada em sua IDE Arduino.
+
+3. **Compilação e Upload:**
+   - Abra o arquivo "main.cpp" em sua IDE Arduino.
+   - Compile o código e faça o upload para o seu Arduino.
+
+4. **Execução:**
+   - Ligue o Arduino. O display LCD exibirá uma mensagem de boas-vindas e uma animação.
+   - Os valores de temperatura e pH serão exibidos em tempo real no display LCD.
+
 #### Aplicações
 
 Este projeto pode ser aplicado em diversos contextos, tais como:
