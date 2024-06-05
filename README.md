@@ -1,4 +1,9 @@
-### LCV - Monitoramento de Temperatura e pH
+### LCV Motors - Monitoramento de Temperatura e pH
+
+#### Nomes dos Integrantes
+- Milton Cezar Bacanieski (RM: 555206)
+- Vitor Bebiano Mulford (RM: 555026)
+- Lorenzo Mangini (RM: 554901)
 
 #### Descrição
 
@@ -44,7 +49,7 @@ Esta função é executada continuamente, permitindo a leitura e exibição dos 
 
 Esta função exibe uma tela de inicialização no LCD ao ligar o sistema. As ações realizadas incluem:
 
-- **Mensagem de Boas-Vindas:** Exibe "Bem-vindo a LCV Motors!".
+- **Mensagem de Boas-Vindas:** Exibe "Bem-vindo a LCV!".
 - **Animação de Rolagem:** Faz uma rolagem do display para a esquerda para mostrar uma animação simples.
 - **Animação de Pontos:** Exibe uma sequência de pontos na tela para criar um efeito visual interessante antes de iniciar a leitura dos sensores.
 
@@ -61,3 +66,7 @@ Este projeto pode ser aplicado em diversos contextos, tais como:
 - **Aquários:** Monitoramento da temperatura e do pH da água para garantir condições ideais para os peixes.
 - **Laboratórios:** Monitoramento de soluções químicas em experimentos.
 - **Processos Industriais:** Controle de temperatura e pH em processos de fabricação e tratamento de água.
+
+#### Links 
+- [Vídeo Demonstrativo no YouTube](link_para_o_seu_video)
+- [Simulação no Tinkercad](https://www.tinkercad.com/things/eLHkG26VK7b-lcv-monitoramento-temp-e-ph)
