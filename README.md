@@ -85,5 +85,5 @@ Este projeto pode ser aplicado em diversos contextos, tais como:
 - **Processos Industriais:** Controle de temperatura e pH em processos de fabricação e tratamento de água.
 
 #### Links 
-- [Vídeo Demonstrativo no YouTube](link_para_o_seu_video)
+- [Vídeo Demonstrativo no YouTube](https://www.youtube.com/watch?v=SXDZSCt7dac)
 - [Simulação no Tinkercad](https://www.tinkercad.com/things/eLHkG26VK7b-lcv-monitoramento-temp-e-ph)
